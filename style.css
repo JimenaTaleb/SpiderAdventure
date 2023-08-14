@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(imagenes/img/fondo3.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}  
+
+.parte_1{
+    width: vw;
+    height: dvh;
+}
+
+.parte_1 .texto1{
+    font-size: 1.3rem;
+    color: white;
+    background-color: red;
+    display: inline;
+}
+
+.parte_1 .img1{
+    width: 200px;
+    height: 600px;
+}
+
+.parte_1 .texto2{
+    font-size: 1.3rem;
+    color: white;
+    background-color: red;
+    display: inline;
+}
+
+.parte_1 .img2{
+    width: 320px;
+    height: 600px;
+}
+
+.parte_1 .texto3{
+    font-size: 1.3rem;
+    color: white;
+    background-color: blue;
+    display: inline;
+}
+
+.parte_1 .img3{
+    width: 320px;
+height: 500px;
+}
+
+.parte_2 .img4{
+    width: 320px;
+    height: 400px;
+}
+
+.parte_2 .img5{
+    width: 320px;
+    height: 600px;
+}
+
+.parte_2 .img6{
+    width: 320px;
+    height: 600px;
+}
+
+.parte_3 .img7{
+    width: 320px;
+    height: 350px;
+}
+
+.parte_3 .img8{
+    width: 320px;
+    height: 300px;
+}
+
+.parte_3 .img9{
+    width: 300px;
+    height: 350px;
+}
+
+.parte_4 .img10{
+    width: 300px;
+    height: 600px;
+}
+
+.parte_5 a{
+    background-color: red;
+    color: white;
+    font-size: 2rem;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 4px 2px;
+}
+
+
+
+
+
+
